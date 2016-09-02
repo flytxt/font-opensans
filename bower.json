@@ -1,0 +1,22 @@
+{
+  "name": "font-opensans",
+  "version": "1.0.0",
+  "description": "An HTML import for Open Sans",
+  "authors": [
+    "Priyanka C V"
+  ],
+  "keywords": [
+    "font",
+    "opensans"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cvPriyanka/font-opensans.git"
+  },
+  "main": "roboto.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/cvPriyanka/font-opensans",
+  "ignore": [
+    "/.*"
+  ]
+}
